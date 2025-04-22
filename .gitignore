@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.conda/
+Library/
+Lib/
+Scripts/
+*.log
+*.db
+*.sqlite
+.DS_Store
